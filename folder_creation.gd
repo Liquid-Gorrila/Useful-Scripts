@@ -4,7 +4,7 @@ class_name FolderGeneration
 # This script is designed to be run in the Godot editor.
 # This script generates a folder structure for a Godot project.
 # It creates folders for scenes, scripts, assets, and other resources.
-# It also creates a README file in the root directory of the project.
+# Adjust folder structure to your liking
 
 func _run():
 	# Define the folder structure
